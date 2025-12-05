@@ -1,3 +1,5 @@
+![Alt text](kyAienM.gif)
+
 ## Hello :D
 
 I’m studying software engineering and mostly focus on fullstack projects.  
