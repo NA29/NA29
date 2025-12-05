@@ -1,6 +1,6 @@
 ![Alt text](rain1.gif)
 
-## Hello :D
+# Hello :D
 
 I’m studying software engineering and mostly focus on fullstack projects.  
 
