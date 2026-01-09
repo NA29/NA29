@@ -1,0 +1,12 @@
+<!-- ![Alt text](rain1.gif) -->
+
+
+```
+░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░ ░▒▓██████▓▒░    Status      : Wintern, Part-time Student
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░   Role        : SWE Student @ McGill
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░   Focus       : Full-Stack, Systems
+░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░░▒▓██████▓▒░ ░▒▓███████▓▒░   Languages   : Python, TypeScript, C++, Java
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░             ░▒▓█▓▒░   Frameworks  : React (+Native), SpringBoot, FastAPI
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░             ░▒▓█▓▒░   Learning    : C++, Operating Systems, Neovim
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░░▒▓██████▓▒░    Reading     : OSTEP, Klara and the Sun
+```
